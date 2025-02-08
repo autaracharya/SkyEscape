@@ -1,0 +1,106 @@
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\default.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\background.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\bird.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\pipe.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\bgMusic.wma
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\bgMusic.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Flap.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\GameOver.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Hit.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Point.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.exe
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.deps.json
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.runtimeconfig.json
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.pdb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.AssemblyReference.cache
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.AssemblyInfoInputs.cache
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.AssemblyInfo.cs
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.CoreCompileInputs.cache
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.CopyComplete
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\refint\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.pdb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.genruntimeconfig.cache
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\ref\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\backgroundImage.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\SkyEscape.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\startScreenMusic.wma
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\startScreenMusic.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\collectible.xnb
+C:\Users\avata\OneDrive\Desktop\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\backgroundImagess.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\default.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\background.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\backgroundImage.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\backgroundImagess.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\bird.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\collectible.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Images\pipe.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\bgMusic.wma
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\bgMusic.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\startScreenMusic.wma
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Music\startScreenMusic.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\SkyEscape.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Flap.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\GameOver.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Hit.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Content\Sounds\Point.xnb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.exe
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.deps.json
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.runtimeconfig.json
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SkyEscape.pdb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.AssemblyReference.cache
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.AssemblyInfoInputs.cache
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.AssemblyInfo.cs
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.CoreCompileInputs.cache
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.csproj.CopyComplete
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\refint\SkyEscape.dll
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.pdb
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\SkyEscape.genruntimeconfig.cache
+C:\Users\avata\OneDrive\Desktop\Semester3\Game Dev Assignment\AutarFinalGameProject\SkyEscape\SkyEscape\obj\Debug\net6.0-windows\ref\SkyEscape.dll

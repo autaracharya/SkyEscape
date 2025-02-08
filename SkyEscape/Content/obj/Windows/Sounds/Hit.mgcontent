@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Sounds/Hit.wav</SourceFile>
+  <SourceTime>2024-11-27T19:27:41.8897876-05:00</SourceTime>
+  <DestFile>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/bin/Windows/Sounds/Hit.xnb</DestFile>
+  <DestTime>2024-12-08T14:00:25.927543-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

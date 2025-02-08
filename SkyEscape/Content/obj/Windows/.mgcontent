@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/default.spritefont</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/background.png</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/backgroundImage.png</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/backgroundImagess.jpg</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/bird.png</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/collectible.png</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Images/pipe.png</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Music/bgMusic.mp3</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Music/startScreenMusic.mp3</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/SkyEscape.ico</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Sounds/Flap.wav</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Sounds/Hit.wav</File>
+    <File>C:/Users/avata/OneDrive/Desktop/AutarFinalGameProject/SkyEscape/SkyEscape/Content/Sounds/Point.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
